@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+{% for guide in site.guides %}
+  <h1>{{ guide.title }}</h1>
+{% endfor %}
