@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% include nav-link.html %}
+
+{% include site-header.html %}
+
+<main class="main section container">
+
+  <h1>{{ page.title }}</h1>
+
+  <nav class="anchor-nav"></nav>
+
+  <article class="article content typeset">
+
+    {{ content }}
+
+  </article>
+
+</main>
+
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+  {% if page.collection %}
+    {% assign  document = site[the_collection]  %}
+  {% endif %}
+{% for links in document %}
+  {% if links.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevname = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% assign nextname = next.title %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+<script>
+// Toggle between sections with keyboard
+document.body.onkeyup = function(e){
+if (e.keyCode == '37') { window.location = '{{prevurl}}'; }
+if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
+};
+
+// Create anchor links
+var anchors = document.querySelectorAll('.typeset h2')
+console.log(anchors);
+</script>
+
+{% if nexturl %}<h2 class="section-next"><a href="{{nexturl}}" class="nxt">Next: <br>{{nextname}}</a></h2>{% endif %}
+
+{% include site-footer.html %}

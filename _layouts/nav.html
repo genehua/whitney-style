@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main site-nav container">
+
+  <ul class="sections">
+
+  {% for section in site.sections %}
+  <li class="sections-item">
+    <a href="{{ section.url }}">
+      <h2>{{ section.title }}</h2>
+    </a>
+  </li>
+  {% endfor %}
+
+  </ul>
+
+  {{ content }}
+
+</main>
+
+{% include site-footer.html %}

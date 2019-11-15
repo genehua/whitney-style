@@ -1,0 +1,51 @@
+.section {
+  h1 {
+    margin-bottom: 90px;
+    color: #949494;
+  }
+}
+
+
+.typeset {
+  h2 {
+    margin: 1.5em 0 0.5em;
+  }
+
+  h4 {
+    margin: 2.8em 0 1.4em;
+  }
+
+  p, ul, ol {
+    font-size: 1.25rem;
+    max-width: 720px;
+    margin: 1.4em 0;
+
+    a {
+      text-decoration: underline;
+    }
+  }
+
+  ul, ol {
+
+    li {
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    border: 1px solid black;
+  }
+
+  img + em {
+    font-size: 0.9375rem;
+    font-style: normal;
+    display: block;
+    margin: 10px 0 1.4em;
+  }
+
+}
+
+.section-next {
+  margin-top: 5em;
+}
