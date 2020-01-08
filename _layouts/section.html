@@ -20,6 +20,22 @@ layout: default
 
 </main>
 
+<!-- <div class="site-nav">
+
+  <ul class="sections">
+
+  {% for section in site.sections %}
+  <li class="sections-item">
+    <a href="{{ section.url }}">
+      <h2>{{ section.title }}</h2>
+    </a>
+  </li>
+  {% endfor %}
+
+  </ul>
+
+</div> -->
+<!--
 {% capture the_collection %}{{page.collection}}{% endcapture %}
   {% if page.collection %}
     {% assign  document = site[the_collection]  %}
@@ -51,6 +67,6 @@ var anchors = document.querySelectorAll('.typeset h2')
 console.log(anchors);
 </script>
 
-{% if nexturl %}<h2 class="section-next"><a href="{{nexturl}}" class="nxt">Next: <br>{{nextname}}</a></h2>{% endif %}
+{% if nexturl %}<h2 class="section-next"><a href="{{nexturl}}" class="nxt">Next: <br>{{nextname}}</a></h2>{% endif %} -->
 
 {% include site-footer.html %}
