@@ -33,7 +33,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-#   - jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Collections
 collections:
@@ -49,7 +49,7 @@ defaults:
     values:
       layout: "section"
 
-# remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic
 
 
 # Exclude from processing.
