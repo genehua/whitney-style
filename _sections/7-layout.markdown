@@ -1,10 +1,7 @@
 ---
-title: Layout
+title: Layout (WIP)
 ---
 
-Web pages combine type, images, spacing and components into cohesive layouts that allow visitors to complete tasks and find the information they need. Similar kinds of information should use similar kinds of layouts.
-
-## Page Anatomy
 
 To help define Three main types of content structures.
 
@@ -32,3 +29,8 @@ Many pages show an index of items that preview multiple similar types of informa
 
 #### Scale list items appropriately
 Scale items smaller if the information in each item is relatively less important, and if the overall list is very long. Scale items larger if the information is more important, or if the number of items is fewer.
+
+## Building pages
+
+#### Scale content from large to small
+Place sections that use larger images and type at the top of the page to create a focused message on landing. As a visitor scrolls down the page, they can be presented with progressively detailed content displayed in smaller sections or regions.
