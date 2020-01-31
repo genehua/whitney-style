@@ -36,18 +36,18 @@ plugins:
   - jekyll-remote-theme
 
 # Collections
-collections:
-  sections:
-    output: true
-    auto_id_prefix: true
-    permalink: /:name
-
-defaults:
-  - scope:
-      path: ""
-      type: "sections"
-    values:
-      layout: "section"
+# collections:
+#   sections:
+#     output: true
+#     auto_id_prefix: true
+#     permalink: /:name
+#
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "sections"
+#     values:
+#       layout: "section"
 
 remote_theme: daviddarnes/alembic
 
