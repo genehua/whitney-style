@@ -40,7 +40,7 @@ collections:
   sections:
     output: true
     auto_id_prefix: true
-    permalink: /:name
+    # permalink: /:name
 
 defaults:
   - scope:
