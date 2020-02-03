@@ -8,7 +8,7 @@ Black foreground on white background serves as the foundation of the identity sy
 </div>
 
 {:.image-aside}
-![Black and white](/assets/images/b-w.png)
+![Black and white](/whitney-style/assets/images/b-w.png)
 
 <div markdown="1">
 #### Brand colors
@@ -16,7 +16,7 @@ Brand colors are available for use, but should be used only in special circumsta
 </div>
 
 {:.image-aside}
-![Brand colors](/assets/images/brand-colors.png)
+![Brand colors](/whitney-style/assets/images/brand-colors.png)
 
 ## Using Color
 
@@ -30,11 +30,11 @@ Use grey in body type sparingly; communicating hierarchy via margins is preferre
 </div>
 
 {:.image-aside}
-![Grey as hierarchy](/assets/images/grey-as-hierarchy.png)
+![Grey as hierarchy](/whitney-style/assets/images/grey-as-hierarchy.png)
 *__Do:__ Use grey to establish hierarchy between two pieces of information both set in display type.*
-![No grey above black](/assets/images/no-grey-above-black.png)
+![No grey above black](/whitney-style/assets/images/no-grey-above-black.png)
 *__Don't:__ Use grey text above black text.*
-![No grey by itself](/assets/images/no-grey-by-itself.png)
+![No grey by itself](/whitney-style/assets/images/no-grey-by-itself.png)
 *__Don't:__ Use grey text without black text.*
 
 <div markdown="1">
@@ -43,9 +43,9 @@ Use grey text to communicate a non-active or disabled state of an element.
 </div>
 
 {:.image-aside}
-![Grey as hierarchy](/assets/images/grey-menu-item.png)
+![Grey as hierarchy](/whitney-style/assets/images/grey-menu-item.png)
 *Inactive menu items are communicated through grey.*
-![Grey as hierarchy](/assets/images/grey-icon.png)
+![Grey as hierarchy](/whitney-style/assets/images/grey-icon.png)
 *Icons or buttons that become disabled are differentiated through grey.*
 
 <div markdown="1">
@@ -54,4 +54,4 @@ Errors should use an AA contrast-compliant red, slightly modified from the brand
 </div>
 
 {:.image-aside}
-![Red for errors](/assets/images/red-for-errors.png)
+![Red for errors](/whitney-style/assets/images/red-for-errors.png)

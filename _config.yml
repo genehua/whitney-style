@@ -48,14 +48,8 @@ defaults:
       type: "sections"
     values:
       layout: "section"
-  - scope:
-      path: "/whitney-style/assets/images"
-    values:
-      image: true
 
 remote_theme: daviddarnes/alembic
-
-permalink: /:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

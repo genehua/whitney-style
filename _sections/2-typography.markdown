@@ -8,7 +8,7 @@ Neue Haas Grotesk (NHG) Display 65 Medium is used to set the highest level headl
 </div>
 
 {:.image-aside}
-![Display type properties](/assets/images/nhg-display.png)
+![Display type properties](/whitney-style/assets/images/nhg-display.png)
 
 <div markdown="1">
 #### Text type
@@ -16,7 +16,7 @@ The bulk of text in an interface will be set in one of two sizes of NHG Text. Th
 </div>
 
 {:.image-aside}
-![Neue Haas Grotest Text 55 Roman and 75 Bold](/assets/images/nhg-text.png)
+![Neue Haas Grotest Text 55 Roman and 75 Bold](/whitney-style/assets/images/nhg-text.png)
 
 
 ## Using Typography
@@ -27,7 +27,7 @@ Text should never be right aligned, centered, or justified. Blocks of text may b
 </div>
 
 {:.image-aside}
-![Do: left align text](/assets/images/left-align-text.png)
+![Do: left align text](/whitney-style/assets/images/left-align-text.png)
 
 <div markdown="1">
 #### Maximize font size contrast
@@ -35,11 +35,11 @@ Font size of display type should be as large as possible without generating exce
 </div>
 
 {:.image-aside}
-![Type size contrast: too small](/assets/images/type-size-contrast-small.png)
+![Type size contrast: too small](/whitney-style/assets/images/type-size-contrast-small.png)
 *Too small, doesn't fill the space.*
-![Type size contrast: too large](/assets/images/type-size-contrast-large.png)
+![Type size contrast: too large](/whitney-style/assets/images/type-size-contrast-large.png)
 *Too large, text will wrap too often.*
-![Type size contrast](/assets/images/type-size-contrast.png)
+![Type size contrast](/whitney-style/assets/images/type-size-contrast.png)
 *Just right.*
 
 <div markdown="1">
@@ -51,9 +51,9 @@ Generally, pages and sections should strive to contain only two sizes: one displ
 </div>
 
 {:.image-aside}
-![Don't: Use lots of font sizes](/assets/images/minimize-font-size-dont.png)
+![Don't: Use lots of font sizes](/whitney-style/assets/images/minimize-font-size-dont.png)
 *__Avoid:__ using different type sizes when other forms of structure are in place.*
-![Do: Use few font sizes](/assets/images/minimize-font-size-do.png)
+![Do: Use few font sizes](/whitney-style/assets/images/minimize-font-size-do.png)
 *__Do:__ keep type sizes streamlined.*
 
 <div markdown="1">
@@ -62,7 +62,7 @@ Before using two display sizes, first see if the smaller display size can be rep
 </div>
 
 {:.image-aside}
-![Separate display type](/assets/images/separate-display-type.png)
+![Separate display type](/whitney-style/assets/images/separate-display-type.png)
 *__Do:__ place images between larger and smaller display type to maintain separation.*
 
 <div markdown="1">
@@ -71,4 +71,4 @@ Display type should avoid italics as much as possible. Copy that would usually b
 </div>
 
 {:.image-aside}
-![Display type italics](/assets/images/display-type-italics.png)
+![Display type italics](/whitney-style/assets/images/display-type-italics.png)

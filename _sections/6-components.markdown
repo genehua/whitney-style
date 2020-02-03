@@ -13,7 +13,7 @@ Communicate accessibility with standardized icons that exist in an ecosystem lar
 </div>
 
 {: .image-aside}
-![Access icons](/assets/images/access-icons.png)
+![Access icons](/whitney-style/assets/images/access-icons.png)
 
 #### Arrows
 Use "up" and "down" arrows when clicking the icon will scroll within the page. Use "left" and "right" arrows to navigate a section that has horizontally scrolling content.
@@ -27,7 +27,7 @@ If clicking will expand or collapse a section, use plus and minus signs.
 </div>
 
 {: .image-aside}
-![Access icons](/assets/images/plus-minus.png)
+![Access icons](/whitney-style/assets/images/plus-minus.png)
 
 ## Buttons and input
 
@@ -43,9 +43,9 @@ Do not use arrow links when there is no partial list being shown; use a button i
 </div>
 
 {: .image-aside}
-![Arrow Link Do](/assets/images/separate-display-type.png)
+![Arrow Link Do](/whitney-style/assets/images/separate-display-type.png)
 *__Do:__ use an arrow link to link to a larger list.*
-![Arrow Link Don't](/assets/images/arrow-link-dont.png)
+![Arrow Link Don't](/whitney-style/assets/images/arrow-link-dont.png)
 *__Don't:__ use an arrow link when there is no preview of the list.*
 ## Frames
 <div markdown="1">
@@ -55,7 +55,7 @@ When setting alignment of the frame to the rest of the page, use the border as t
 </div>
 
 {: .image-aside}
-![Perspectives](/assets/images/perspectives.png)
+![Perspectives](/whitney-style/assets/images/perspectives.png)
 *A frame is used to enclose individual Perspectives on exhibition pages, to signal thoughts and voices external to the Museum.*
-![Catalog Essay](/assets/images/catalog-essay.png)
+![Catalog Essay](/whitney-style/assets/images/catalog-essay.png)
 *A frame encloses the text of an essay excerpted from a catalog, rather than published directly to whitney.org*
