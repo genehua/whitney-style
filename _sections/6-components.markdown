@@ -4,9 +4,8 @@ title: Components
 
 Use icons, buttons, inputs and other visual patterns across whitney.org to simplify information and to create consistent expectations as to what will happen when a visitor interacts with the website.
 
-## Iconography
+## Icons
 
-Keep icon usage to a minimum; descriptive text is preferred whenever there is space. Use icons when space is prohibitively small.
 <div markdown="1">
 #### Access
 Communicate accessibility with standardized icons that exist in an ecosystem larger than the Museum itself.
@@ -15,10 +14,16 @@ Communicate accessibility with standardized icons that exist in an ecosystem lar
 {: .image-aside}
 ![Access icons](/whitney-style/assets/images/access-icons.png)
 
+<div markdown="1">
 #### Arrows
 Use "up" and "down" arrows when clicking the icon will scroll within the page. Use "left" and "right" arrows to navigate a section that has horizontally scrolling content.
 
 Use the "down" arrow to indicate a `select` dropdown component.
+</div>
+
+{: .image-aside}
+![Arrows](/whitney-style/assets/images/arrows.png)
+*Once scrolled, the header uses an arrow to indicate that the Menu link will scroll back to the top. In a dropdown, a down arrow indicates options to select.*
 
 
 <div markdown="1">
@@ -27,13 +32,16 @@ If clicking will expand or collapse a section, use plus and minus signs.
 </div>
 
 {: .image-aside}
-![Access icons](/whitney-style/assets/images/plus-minus.png)
+![Plus minus](/whitney-style/assets/images/plus-minus.png)
+*Plus and minus icons are used to indicate accordions that open and close.*
 
-## Buttons and input
+## Buttons
 
-Use a button when the action is the main purpose of the section or region. If the action is secondary, use a text link instead.
+Use buttons when a single action or set of equally important actions is the main purpose of the section or region. If the action is secondary, use a text link instead.
 
-Use a checkbox
+{: .image-aside}
+![Button vs link](/whitney-style/assets/images/button-vs-link.png)
+*A link to buy tickets, the primary action of an exhibition page, uses a button. The link to view the performance schedule uses at text link.*
 
 ## Arrow Links
 <div markdown="1">
