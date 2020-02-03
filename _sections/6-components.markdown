@@ -6,9 +6,10 @@ Use icons, buttons, inputs and other visual patterns across whitney.org to simpl
 
 ## Iconography
 
+Keep icon usage to a minimum; descriptive text is preferred whenever there is space. Use icons when space is prohibitively small.
 <div markdown="1">
 #### Access
-Keep icon usage to a minimum; descriptive text is preferred whenever there is space. Use icons when space is prohibitively small, to communicate standard accessibility options, or when adhering to a pattern common to the web that would be generally familiar to visitors.
+Communicate accessibility with standardized icons that exist in an ecosystem larger than the Museum itself.
 </div>
 
 {: .image-aside}

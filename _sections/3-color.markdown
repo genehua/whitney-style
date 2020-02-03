@@ -44,7 +44,9 @@ Use grey text to communicate a non-active or disabled state of an element.
 
 {:.image-aside}
 ![Grey as hierarchy](/assets/images/grey-menu-item.png)
+*Inactive menu items are communicated through grey.*
 ![Grey as hierarchy](/assets/images/grey-icon.png)
+*Icons or buttons that become disabled are differentiated through grey.*
 
 <div markdown="1">
 #### Red for errors

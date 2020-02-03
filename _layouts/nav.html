@@ -10,7 +10,7 @@ layout: default
 
   {% for section in site.sections %}
   <li class="sections-item">
-    <a href="{{ section.url }}">
+    <a href="{{ site.baseurl }}{{ section.url }}">
       <h2>{{ section.title }}</h2>
     </a>
   </li>
