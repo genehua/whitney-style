@@ -22,14 +22,6 @@ The bulk of text in an interface will be set in one of two sizes of NHG Text. Th
 ## Using Typography
 
 <div markdown="1">
-#### Always left align text
-Text should never be right aligned, centered, or justified. Blocks of text may be right aligned in layout, but their contents should still be left aligned.
-</div>
-
-{:.image-aside}
-![Do: left align text](/whitney-style/assets/images/left-align-text.png)
-
-<div markdown="1">
 #### Maximize font size contrast
 Font size of display type should be as large as possible without generating excessively short line lengths, or causing text to wrap between words at smaller screen sizes.
 </div>
